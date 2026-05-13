@@ -1,0 +1,13 @@
+lockfile_version: '1'
+generated_at: '2026-05-13T19:39:53.207373+00:00'
+dependencies: []
+local_deployed_files:
+- .agents/skills/kaparty-guidelines
+- .agents/skills/pr-description
+- .claude/agents/team-reviewer.md
+- .claude/skills/kaparty-guidelines
+- .claude/skills/pr-description
+- .github/agents/team-reviewer.agent.md
+local_deployed_file_hashes:
+  .claude/agents/team-reviewer.md: sha256:abe61c39c2c1b02fc151c3ae0408e0c39da3e21b2fc61da743fbeea82b7276eb
+  .github/agents/team-reviewer.agent.md: sha256:abe61c39c2c1b02fc151c3ae0408e0c39da3e21b2fc61da743fbeea82b7276eb
